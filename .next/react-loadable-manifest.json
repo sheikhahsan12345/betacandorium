@@ -1,0 +1,38 @@
+{
+  "Blog.js -> bootstrap/dist/js/bootstrap.min.js": {
+    "id": "Blog.js -> bootstrap/dist/js/bootstrap.min.js",
+    "files": [
+      "static/chunks/node_modules_bootstrap_dist_js_bootstrap_min_js.js"
+    ]
+  },
+  "BreakingNews.js -> bootstrap/dist/js/bootstrap.min.js": {
+    "id": "BreakingNews.js -> bootstrap/dist/js/bootstrap.min.js",
+    "files": [
+      "static/chunks/node_modules_bootstrap_dist_js_bootstrap_min_js.js"
+    ]
+  },
+  "EnvironmentalProtectionRevolution.js -> bootstrap/dist/js/bootstrap.min.js": {
+    "id": "EnvironmentalProtectionRevolution.js -> bootstrap/dist/js/bootstrap.min.js",
+    "files": [
+      "static/chunks/node_modules_bootstrap_dist_js_bootstrap_min_js.js"
+    ]
+  },
+  "Footer.js -> bootstrap/dist/js/bootstrap.min.js": {
+    "id": "Footer.js -> bootstrap/dist/js/bootstrap.min.js",
+    "files": [
+      "static/chunks/node_modules_bootstrap_dist_js_bootstrap_min_js.js"
+    ]
+  },
+  "PoliticsSection.js -> bootstrap/dist/js/bootstrap.min.js": {
+    "id": "PoliticsSection.js -> bootstrap/dist/js/bootstrap.min.js",
+    "files": [
+      "static/chunks/node_modules_bootstrap_dist_js_bootstrap_min_js.js"
+    ]
+  },
+  "SocailAds.js -> bootstrap/dist/js/bootstrap.min.js": {
+    "id": "SocailAds.js -> bootstrap/dist/js/bootstrap.min.js",
+    "files": [
+      "static/chunks/node_modules_bootstrap_dist_js_bootstrap_min_js.js"
+    ]
+  }
+}
